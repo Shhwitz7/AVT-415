@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+    font-family: 'OpenSans', sans-serif;
+
+    font-size: 16px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
+
+h1 {font-family:'Open Sans Regular SemiBold';font-style:"Open Sans Regular SemiBold";font-weight: 700;font-size:100px;color:#18253C}
+h2 {font-family:'Open Sans Regular Regular';font-style:"Open Sans Regular Regular";font-weight: 700;font-size:45px;color: #434141 }
+h3 {font-family:'Open Sans Regular Regular';font-style:"Open Sans Regular Regular";font-weight: 700;font-size:22px }
+
+
+ol {
+    align-content: center;
+    font-family: "Open Sans Regular Regular";
+    font-size: 2em;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: 8%;
+    margin-bottom: 0;
+    text-align: left
+}
+p {
+    font-family: 'Open Sans Regular Regular';
+    font-style: "Open Sans Regular Regular";
+    font-size: 2em;
+    margin-right: 0%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    text-align: left
+}
